@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(38, 38, 111);
+}
+
+
+h2{
+    color: white;
+}
+
+
+
+a{
+    color: white; 
+    transform: translate(50%,50%);
+    
+}
+
+a:hover{
+    color: rgb(196, 36, 36);
+}
+
+
+div{
+    background-color: black;
+    padding: 5px;
+    width: 15%;
+    border-radius:30px ;
+    color:white;
+    transform: translate(280%,50%);
+    
+}
+
+h1{
+    transform: translate(-199%,-70%);
+       
+}
+
+tr{
+    transform: translate(59%,-57%);
+  
+}
+

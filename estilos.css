@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(38, 38, 111);
+}
+
+div{
+    background-color: black;
+    padding: 40px;
+    margin: 200px;
+    border-radius: 30px;
+    width: 300px;
+    color: rgb(119, 45, 126);
+    transform: translate(99% , 20%);
+    
+}
+
+h1{
+    color: rgb(123, 48, 140);
+}
+
+input{
+  width: 70%;
+  padding: 4px;
+  border-radius: 33px;
+}
+
+button{
+background-color: purple;
+color: white;
+width:50%;
+padding: 2%;
+border-radius:15px ;
+transform: translate(58%, 15%);
+}
+
+button:hover{
+    background-color: black;
+    color: purple;
+}
+
+a{
+    
+    color: white;
+    transform: translate(58%, 15%);
+}
+a:hover{
+  color: rgb(190, 19, 19);
+}

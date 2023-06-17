@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(38, 38, 101);
+}
+
+a{
+    color: white;
+
+}
+
+a:hover{
+    color: rgb(196, 36, 36);
+}
+
+h1{
+    padding:3px;
+    color:white;
+}
